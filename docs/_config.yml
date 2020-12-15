@@ -1,2 +1,12 @@
 theme: jekyll-theme-cayman
 permalink: /404.html
+title: Credit Scoring Methodologies
+locale: en_US
+
+owner:
+  name: Nguyen Thanh Tra
+  #avatar: bio-photo.jpg
+  bio: "Mathematics is no limit, return to the beach"
+  email: thanhtra254@gmail.com
+  # Do not include the @ symbol in your Twitter username
+  facebook: https://www.facebook.com/thanhtra.dhsp/
